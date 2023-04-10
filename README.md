@@ -2,7 +2,7 @@
 
 Repo of personally collected data using [coffeegrindsize app](https://github.com/jgagneastro/coffeegrindsize), BUT [using this forked repo](https://github.com/wannabecoffeenerd/coffeegrindsize) which has the addition of 4/3 factor for volume calculation from [wannabecoffeenerd's unmerged pull request](https://github.com/jgagneastro/coffeegrindsize/pull/11). So yes, these will be differnt results than from others in [this fledgling ground database](https://github.com/Coffee-Grind-Distribution/coffee-grind-distribution) but they will at least be self-consistent.
 
-First goal is to compare consistency of grind size form the Hario Mini grinder varying inclusion of bottom axis stabilizer and as-is vs cleaned. Grind size ie clicks on grinder will stay the same. Large grind size I believe will have more variability than the smaller grind size I would actually want for espresso.
+First goal is to compare consistency of grind size form the Hario Mini grinder varying inclusion of bottom axis stabilizer and as-is vs cleaned. (Burrs have not been cleaned since I bought it in 2014 {'now' is 2023}) Grind size i.e. clicks on grinder will stay the same. Large grind size I believe will have more variability than the smaller grind size I would actually want for espresso.
 
 Second goal is to calibrate hario grinder as close to professional grinder & grind settings for espresso as possible. Using grounds that Milstead Coffee gave for the cause. Will update with grinder name & model later.
 
@@ -19,7 +19,7 @@ Second goal is to calibrate hario grinder as close to professional grinder & gri
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
 
 
-## First Sample
+## Hario First Sample
 
 Added 3d printed axis stabilizer to Hario Mini grinder, but did not clean it and ground way too many beans from old (but unopened) bag I had.
 
@@ -56,9 +56,9 @@ Then cleaned off sheet of paper and took two pinches of grounds from same milste
 
 ## Next Tests
 
-Hario Grinder 'cleaned' by using canned air to blow out small particles. Two samples below I assume will be very similar to above Sample #1. Any deviations ar emore likely from the smaller amounnt of beans ground and thus not testing my patience as much to seperate the grounds on the paper.
+Hario Grinder 'cleaned' by using canned air to blow out small particles. Two samples below I assume will be very similar to above Sample #1. Any deviations are more likely from the smaller amount of beans ground (and thus not testing my patience as much to better seperate the grounds on the paper).
 
-- [~] Grind a few beans with axis stabilizer installed
+- [ ] Grind a few beans with axis stabilizer installed
 - [ ] Grind a few beans without axis stabilizer installed
 
 Dissasemble Grind and clean ceramic parts well with Baking soda
