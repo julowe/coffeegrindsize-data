@@ -8,7 +8,7 @@ Second goal is to calibrate hario grinder as close to professional grinder & gri
 
 ## Summary Table
 
-| Description         | AVG DIAM | STD DIAM | AVG SURF | STD SURF | EFF | QUAL
+| Description         | Avg Diam (mm) | SD Diam | Avg Surface (mm^2^) | SD Surface | Efficiency | Quality |
 | ------------------- | ---- | ---- | --- | ---- | ---- | ---- |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1 | 1.55 | 0.89 | 2.5 | 2.73 | 87.3 | 0.91 |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1, Same Grounds on Paper Just spread out better | 1.13 | 0.62 | 1.3 | 1.44 | 87.7 | 0.9 |
@@ -17,6 +17,8 @@ Second goal is to calibrate hario grinder as close to professional grinder & gri
 | Milstead, Sample 1 | 0.8 | 0.36 | 0.6 | 0.56 | 85.0 | 1.08 |
 | Milstead, Sample 1 - Spread out more | 0.73 | 0.3 | 0.49 | 0.39 | 85.3 | 1.26 |
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
+
+[From manual](https://github.com/wannabecoffeenerd/coffeegrindsize/blob/fd361b02d4b1d4c21e000a2e292ed9f89cecbaee/Help/coffee_grind_size_manual.pdf): The “Quality” number is simply the standard deviation of surfaces divided by the average surface: this number tracks the narrowness of the distribution, and should be a decent indicator of your grinder quality. The “Efficiency” is simply the mass fraction of coffee that is available for extraction by diffusion (please see discussion above about available mass).
 
 
 ## Hario First Sample
