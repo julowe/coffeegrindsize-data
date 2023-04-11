@@ -2,7 +2,7 @@
 
 Repo of personally collected data using [coffeegrindsize app](https://github.com/jgagneastro/coffeegrindsize), BUT [using this forked repo](https://github.com/wannabecoffeenerd/coffeegrindsize) which has the addition of 4/3 factor for volume calculation from [wannabecoffeenerd's unmerged pull request](https://github.com/jgagneastro/coffeegrindsize/pull/11). So yes, these will be differnt results than from others in [this fledgling ground database](https://github.com/Coffee-Grind-Distribution/coffee-grind-distribution) but they will at least be self-consistent.
 
-First goal is to compare consistency of grind size form the Hario Mini grinder varying inclusion of bottom axis stabilizer and as-is vs cleaned. (Burrs have not been cleaned since I bought it in 2014 {'now' is 2023}) Grind size i.e. clicks on grinder will stay the same. Large grind size I believe will have more variability than the smaller grind size I would actually want for espresso.
+First goal is to compare consistency of grind size form the Hario Mini grinder varying inclusion of bottom axis stabilizer and as-is vs cleaned. (Burrs have not been cleaned since I bought it in 2014 {'now' is 2023}) Grind size i.e. clicks on grinder will stay the same (if click-amount/grind-size is not specified for Hario it is 5 clicks back from as tight as possible). Large grind size I believe will have more variability than the smaller grind size I would actually want for espresso.
 
 Second goal is to calibrate hario grinder as close to professional grinder & grind settings for espresso as possible. Using grounds that Milstead Coffee gave for the cause. Will update with grinder name & model later.
 
