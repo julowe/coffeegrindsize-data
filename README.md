@@ -6,6 +6,13 @@ First goal is to compare consistency of grind size form the Hario Mini grinder v
 
 Second goal is to calibrate hario grinder as close to professional grinder & grind settings for espresso as possible. Using grounds that Milstead Coffee gave for the cause. Will update with grinder name & model later.
 
+## Repository Structure
+
+Naming of files in below directories is detailed in each sample section below.
+[source-images](source-images) contains the images I have taken of coffee grounds spread out across a page of paper.
+[data-outputs](data-outputs) contains the csv files that the coffeegrindsize app saves data to. 
+[histogram-images](histogram-images) contains histograms created by coffeegrindsize app. Some have comparison data overlaid as a blue outline. Labels on the histogram are hopefully clear enough.
+
 ## Summary Table
 
 | Description         | Avg Diam (mm) | SD Diam | Avg Surface (mm^2^) | SD Surface | Efficiency | Quality |
