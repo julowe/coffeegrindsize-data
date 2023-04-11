@@ -19,8 +19,9 @@ Naming of files in below directories is detailed in each sample section below.
 | ------------------- | ---- | ---- | --- | ---- | ---- | ---- |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1 | 1.55 | 0.89 | 2.5 | 2.73 | 87.3 | 0.91 |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1, Same Grounds on Paper Just spread out better | 1.13 | 0.62 | 1.3 | 1.44 | 87.7 | 0.9 |
-| Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 2 | 1.62 | 1.02 | 2.88 | 3.54 | 84.8 | 0.82
-| Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 2, Sub-subsample 1 | 1.16 | 0.73 | 1.47 | 1.94 | 88.5 | 0.76
+| Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 2 | 1.62 | 1.02 | 2.88 | 3.54 | 84.8 | 0.82 |
+| Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 2, Sub-subsample 1 | 1.16 | 0.73 | 1.47 | 1.94 | 88.5 | 0.76 |
+| Hario, Air Cleaning, Axis Stabilized | 0.82 | 0.37 | 0.64 | 0.54 | 87.7 | 1.18 |
 | Milstead, Sample 1 | 0.8 | 0.36 | 0.6 | 0.56 | 85.0 | 1.08 |
 | Milstead, Sample 1 - Spread out more | 0.73 | 0.3 | 0.49 | 0.39 | 85.3 | 1.26 |
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
@@ -47,12 +48,13 @@ Threw maybe 3/4 of grounds off the paper from `hario-noCleaning-axisStabilizer-2
 Histogram `hario-noCleaning-axisStabilizer-2-subsample1-vs-Sample2-hist_av_mass_surf.png` is a comparison of this Sub-subsample of Subsample 2 vs Subsample 2 (e.g. before grounds were removed to make the Sub-subsample). This comparison shows that a lot of the bigger particles in Subsample 2 are likely 2 or more grounds sitting next to each other. Alternatively I may have just removed more of the larger particles with my 'get these darn grounds off the paper' "method" of creating the sub-subsample.
 
 
-## Hario Second Sample
+## Hario Cleaned with Compressed Air, First Sample
 
-Ground 20g of same old house beans. Main reason was to have something to run water through picopresso for the first time to clean/flush it. Made more than needed so I could run a comparison after using compressed air to blow out fine particles in burrs.
+Hario was cleaned quickly using compressed air from top and bottom of burrs. Then I ground 20g of same old house beans. Main reason was to have something to run water through picopresso for the first time to clean/flush it. Made more than needed so I could run a comparison after using compressed air to blow out fine particles in burrs.
 
-Results pending.
+Source image is `hario-airClean-axisStabilizer-sample1.jpg`. Results added to summary table above and comparison of Hario No Cleaning vs Hario Air Cleaning is at `hario-airClean-axisStabilizer-sample1-vs-noCleaning-1-sameGrinds-hist_av_mass_diam.png`
 
+Looking at results table, I expected a much bigger difference between professional ground and these. The comparison of the shots was completely different. The beans were old but it was much easier to pump water through the picopresso/grounds with the hario ground beans... Ugh this makes me want to do another sample from the milstead pile of grounds to see if I get similar results. Though looking again the average diameter may not be a large difference, hario does have many more large particles than the professional grounds.
 
 ## Milstead Professional Ground
 
@@ -67,7 +69,7 @@ Then cleaned off sheet of paper and took two pinches of grounds from same milste
 
 Hario Grinder 'cleaned' by using canned air to blow out small particles. Two samples below I assume will be very similar to above Sample #1. Any deviations are more likely from the smaller amount of beans ground (and thus not testing my patience as much to better seperate the grounds on the paper).
 
-- [ ] Grind a few beans with axis stabilizer installed
+- [x] Grind a few beans with axis stabilizer installed
 - [ ] Grind a few beans without axis stabilizer installed
 
 Dissasemble Grind and clean ceramic parts well with Baking soda
