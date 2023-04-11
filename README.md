@@ -25,6 +25,8 @@ Naming of files in below directories is detailed in each sample section below.
 | Milstead, Sample 1 | 0.8 | 0.36 | 0.6 | 0.56 | 85.0 | 1.08 |
 | Milstead, Sample 1 - Spread out more | 0.73 | 0.3 | 0.49 | 0.39 | 85.3 | 1.26 |
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
+| Milstead, Sample 3 | 0.78 | 0.34 | 0.58 | 0.48 | 86.6 | 1.19 |
+
 
 [From manual](https://github.com/wannabecoffeenerd/coffeegrindsize/blob/fd361b02d4b1d4c21e000a2e292ed9f89cecbaee/Help/coffee_grind_size_manual.pdf): The “Quality” number is simply the standard deviation of surfaces divided by the average surface: this number tracks the narrowness of the distribution, and should be a decent indicator of your grinder quality. The “Efficiency” is simply the mass fraction of coffee that is available for extraction by diffusion (please see discussion above about available mass).
 
@@ -60,9 +62,17 @@ Looking at results table, I expected a much bigger difference between profession
 
 Did not get name/model of grinder. Got 19g of beans from Milstead to try in picopresso. And wow the result - from 18g of grounds, 70g of water, outputtung 40g of espresso - was very similar! slightly more muted flavors and sharper with a little sourness at end, but a good shot. Would enjoy if I got it from a coffee shop! But yes, not quite as good as what I just had from Milstead with same beans, grinder, and grind settings.
 
+### Sample 1
+
 Used some of leftover grounds to do paricle analysis. Used less than 1g (i.e. scale did not change) of grounds and took `milstead-sample1-pic1.jpg` and `milstead-sample1-pic2.jpg` at the same time, so did not do analysis on pic2. Looked at particle detection results and went back to paper sheet and tried to spread out any large chunks that proogram identified. Many I coudl spread out, some were just large particles. Then took `milstead-sample1-pic3.jpg`. Saved results and also comparison histograms. Indeed I was able to see a difference with more effort spreading out particles. More fine and significantly less large particles - see `milstead-sample1-pic3-vs-pic1-hist_av_mass_diam.png`. NB: No particles were added or taken away from paper/image. I just spent much more time than I wish poking and sweeping particles apart.
 
+## Sample 2
+
 Then cleaned off sheet of paper and took two pinches of grounds from same milstead ground pile and spread on paper. Trying to use far less grounds to see if I could get similar results to `pic3` - so I coudl spend less time spreading grounds. My pinch 'method' I figured may be better than tapping grounds out of container which had an interior lip - but maybe some fine particles would be stuck on fingers? This resulted in more fine particles and less large particles than sample1-pic3 (sample that was spread out on paper more) - see `milstead-sample2-pic1-vs-sample1-pic3-hist_av_mass_diam.png` Reason? Either I took fewer large particles from pile of grounds that were left, or more had been removed by previous tapping method, or there were just less grounds on the paper so I had more patience to spread them out. I am ok not knowing this for sure right now, they were close. see results table above.
+
+## Sample 3
+
+Took rest of grounds from canister and dumped onto sheet. spread it out. Got larger average diameter than Sample 2 and more large particles. See `milstead-sample3-pic1-vs-sample2-pic1-hist_av_mass_surf.png`. I think this mostly goes to show I am tired of spreading out coffee grounds. Image is in repo if I want to go back later and exclude clusters/clumps and see if I get different results. But not right now.
 
 
 ## Next Tests
