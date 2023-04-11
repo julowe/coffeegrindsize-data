@@ -21,7 +21,10 @@ Naming of files in below directories is detailed in each sample section below.
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1, Same Grounds on Paper Just spread out better | 1.13 | 0.62 | 1.3 | 1.44 | 87.7 | 0.9 |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 2 | 1.62 | 1.02 | 2.88 | 3.54 | 84.8 | 0.82 |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 2, Sub-subsample 1 | 1.16 | 0.73 | 1.47 | 1.94 | 88.5 | 0.76 |
-| Hario, Air Cleaning, Axis Stabilized | 0.82 | 0.37 | 0.64 | 0.54 | 87.7 | 1.18 |
+| Hario, Air Cleaning, Axis Stabilized, Sample 1 | 0.82 | 0.37 | 0.64 | 0.54 | 87.7 | 1.18 |
+| Hario, Air Cleaning, Axis Stabilized, Sample 2 | 1.05 | 0.51 | 1.08 | 1.1 | 81.2 | 0.98 |
+| Hario, Air Cleaning, Axis Stabilized, Sample 3 | 1.09 | 0.57 | 1.2 | 1.27 | 81.6 | 0.94 |
+| Hario, Air Cleaning, Axis Stabilized, Sample 4 | 1.14 | 0.62 | 1.32 | 1.6 | 78.7 | 0.82 |
 | Milstead, Sample 1 | 0.8 | 0.36 | 0.6 | 0.56 | 85.0 | 1.08 |
 | Milstead, Sample 1 - Spread out more | 0.73 | 0.3 | 0.49 | 0.39 | 85.3 | 1.26 |
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
@@ -57,6 +60,24 @@ Hario was cleaned quickly using compressed air from top and bottom of burrs. The
 Source image is `hario-airClean-axisStabilizer-sample1.jpg`. Results added to summary table above and comparison of Hario No Cleaning vs Hario Air Cleaning is at `hario-airClean-axisStabilizer-sample1-vs-noCleaning-1-sameGrinds-hist_av_mass_diam.png`
 
 Looking at results table, I expected a much bigger difference between professional ground and these. The comparison of the shots was completely different. The beans were old but it was much easier to pump water through the picopresso/grounds with the hario ground beans... Ugh this makes me want to do another sample from the milstead pile of grounds to see if I get similar results. Though looking again the average diameter may not be a large difference, hario does have many more large particles than the professional grounds.
+
+## Hario Cleaned with Compressed Air, Second Sample
+
+I cleared out previous grounds from burrs using compressed air, from top and bottom. Then placed one bean in the hopper and ground while grinder was flat on the piece of paper, no grounds catcher screwed on. Then spread out the grounds.
+
+Comparison of this data to Sample 1 shows this sample has appreciably more large particles and a higher average diameter. Not sure whwy. Maybe I didn't spread them out as much, again?? This isn't doing much for my faith in reproducing results :-/
+
+## Hario Cleaned with Compressed Air, Third Sample
+
+Again, I cleared out previous grounds from burrs using compressed air, from top and bottom. Then placed one bean in the hopper, but this time I ground while grinder was about 50mm above the piece of paper, no grounds catcher screwed on. I moved the grinder around the paper as I went, and this time I spent far less time spreading out the grounds after I was done grinding.
+
+Results were similar to the Second Sample. Ok maybe a little repeatable. Sigh, let's do another.
+
+## Hario Cleaned with Compressed Air, Fourth Sample
+
+Again, I cleared out previous grounds from burrs using compressed air, from top and bottom. Then placed one bean in the hopper, but this time I ground while grinder was about 50mm above the piece of paper, no grounds catcher screwed on. I moved the grinder around the paper as I went. This time I spent a little more time than on the third sample spreading out the grounds after I was done grinding.
+
+Results were similar to second and third sample. Ok, somewhat repeatable. Let's move on to getting better grind size on hario so I can actually dirnk espresso instead of pushing grounds around.
 
 ## Milstead Professional Ground
 
