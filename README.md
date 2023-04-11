@@ -15,7 +15,7 @@ Naming of files in below directories is detailed in each sample section below.
 
 ## Summary Table
 
-| Description         | Avg Diam (mm) | SD Diam | Avg Surface (mm^2^) | SD Surface | Efficiency | Quality |
+| Description         | Avg Diam (mm) | SD Diam | Avg Surface (mm<sup>2</sup>) | SD Surface | Efficiency | Quality |
 | ------------------- | ---- | ---- | --- | ---- | ---- | ---- |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1 | 1.55 | 0.89 | 2.5 | 2.73 | 87.3 | 0.91 |
 | Hario, No Cleaning, Axis Stabilized, Sample 1 Subsample 1, Same Grounds on Paper Just spread out better | 1.13 | 0.62 | 1.3 | 1.44 | 87.7 | 0.9 |
