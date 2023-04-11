@@ -25,6 +25,8 @@ Naming of files in below directories is detailed in each sample section below.
 | Hario, Air Cleaning, Axis Stabilized, Sample 2 | 1.05 | 0.51 | 1.08 | 1.1 | 81.2 | 0.98 |
 | Hario, Air Cleaning, Axis Stabilized, Sample 3 | 1.09 | 0.57 | 1.2 | 1.27 | 81.6 | 0.94 |
 | Hario, Air Cleaning, Axis Stabilized, Sample 4 | 1.14 | 0.62 | 1.32 | 1.6 | 78.7 | 0.82 |
+| Hario, Air Cleaning, No Axis Stabilizer, Sample 1 | 1.18 | 0.61 | 1.39 | 1.48 | 76.7 | 0.94 |
+| Hario, Air Cleaning, No Axis Stabilizer, Sample 2 | 1.09 | 0.57 | 1.19 | 1.24 | 80.8 | 0.95 |
 | Milstead, Sample 1 | 0.8 | 0.36 | 0.6 | 0.56 | 85.0 | 1.08 |
 | Milstead, Sample 1 - Spread out more | 0.73 | 0.3 | 0.49 | 0.39 | 85.3 | 1.26 |
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
@@ -78,6 +80,22 @@ Results were similar to the Second Sample. Ok maybe a little repeatable. Sigh, l
 Again, I cleared out previous grounds from burrs using compressed air, from top and bottom. Then placed one bean in the hopper, but this time I ground while grinder was about 50mm above the piece of paper, no grounds catcher screwed on. I moved the grinder around the paper as I went. This time I spent a little more time than on the third sample spreading out the grounds after I was done grinding.
 
 Results were similar to second and third sample. Ok, somewhat repeatable. Let's move on to getting better grind size on hario so I can actually dirnk espresso instead of pushing grounds around.
+
+## Hario Cleaned with Compressed Air, No Axis Stabilization Collar, First Sample
+
+I removed the axis stabilizing collar, to try to se what difference it made.
+
+Again, I cleared out previous grounds from burrs using compressed air, from top and bottom. Then placed one bean in the hopper, but this time I ground while grinder was about 50mm above the piece of paper, no grounds catcher screwed on. I moved the grinder around the paper as I went. 
+
+Much large particles and more of them. but less different than I expected. See comparison histograms.
+
+## Hario Cleaned with Compressed Air, No Axis Stabilization Collar, Second Sample
+
+I removed the axis stabilizing collar, to try to se what difference it made.
+
+Again, I cleared out previous grounds from burrs using compressed air, from top and bottom. Then placed one bean in the hopper, but this time I ground while grinder was about 50mm above the piece of paper, no grounds catcher screwed on. I moved the grinder around the paper as I went. 
+
+Much large particles and more of them. but less different than I expected. Similar to Sample 1. See comparison histograms.
 
 ## Milstead Professional Ground
 
