@@ -13,7 +13,14 @@ Naming of files in below directories is detailed in each sample section below.
 [data-outputs](data-outputs) contains the csv files that the coffeegrindsize app saves data to. 
 [histogram-images](histogram-images) contains histograms created by coffeegrindsize app. Some have comparison data overlaid as a blue outline. Labels on the histogram are hopefully clear enough.
 
-## Summary Table
+## Pro vs Hand Grinder Summary Table
+
+| Description         | Avg Diam (mm) | SD Diam | Avg Surface (mm<sup>2</sup>) | SD Surface | Efficiency | Quality |
+| ------------------- | ---- | ---- | --- | ---- | ---- | ---- |
+| Milstead, Sample 3 | 0.78 | 0.34 | 0.58 | 0.48 | 86.6 | 1.19 |
+| Hario, Air Cleaning, 2 Clicks, Axis Stabilized, Sample 1 Picture 2 | 0.81 | 0.29 | 0.58 | 0.39 | 79.9 | 1.48 |
+
+## Table of Results
 
 | Description         | Avg Diam (mm) | SD Diam | Avg Surface (mm<sup>2</sup>) | SD Surface | Efficiency | Quality |
 | ------------------- | ---- | ---- | --- | ---- | ---- | ---- |
