@@ -31,7 +31,10 @@ Naming of files in below directories is detailed in each sample section below.
 | Milstead, Sample 1 - Spread out more | 0.73 | 0.3 | 0.49 | 0.39 | 85.3 | 1.26 |
 | Milstead, Sample 2 | 0.67 | 0.28 | 0.41 | 0.32 | 89.3 | 1.26 |
 | Milstead, Sample 3 | 0.78 | 0.34 | 0.58 | 0.48 | 86.6 | 1.19 |
-
+| Hario, Air Cleaning, 2 Clicks, Axis Stabilized, Sample 1 Picture 1 | 0.95 | 0.49 | 0.9 | 1.15 | 78.3 | 0.78 |
+| Hario, Air Cleaning, 2 Clicks, Axis Stabilized, Sample 1 Picture 2 | 0.81 | 0.29 | 0.58 | 0.39 | 79.9 | 1.48 |
+| Hario, Air Cleaning, 2 Clicks, No Axis Stabilizer, Sample 1 | 0.82 | 0.32 | 0.6 | 0.45 | 80.5 | 1.33 |
+| Hario, Air Cleaning, 3 Clicks, No Axis Stabilizer, Sample 1 | 0.85 | 0.36 | 0.67 | 0.59 | 79.7 | 1.14 |
 
 [From manual](https://github.com/wannabecoffeenerd/coffeegrindsize/blob/fd361b02d4b1d4c21e000a2e292ed9f89cecbaee/Help/coffee_grind_size_manual.pdf): The “Quality” number is simply the standard deviation of surfaces divided by the average surface: this number tracks the narrowness of the distribution, and should be a decent indicator of your grinder quality. The “Efficiency” is simply the mass fraction of coffee that is available for extraction by diffusion (please see discussion above about available mass).
 
@@ -105,25 +108,44 @@ Did not get name/model of grinder. Got 19g of beans from Milstead to try in pico
 
 Used some of leftover grounds to do paricle analysis. Used less than 1g (i.e. scale did not change) of grounds and took `milstead-sample1-pic1.jpg` and `milstead-sample1-pic2.jpg` at the same time, so did not do analysis on pic2. Looked at particle detection results and went back to paper sheet and tried to spread out any large chunks that proogram identified. Many I coudl spread out, some were just large particles. Then took `milstead-sample1-pic3.jpg`. Saved results and also comparison histograms. Indeed I was able to see a difference with more effort spreading out particles. More fine and significantly less large particles - see `milstead-sample1-pic3-vs-pic1-hist_av_mass_diam.png`. NB: No particles were added or taken away from paper/image. I just spent much more time than I wish poking and sweeping particles apart.
 
-## Sample 2
+### Sample 2
 
 Then cleaned off sheet of paper and took two pinches of grounds from same milstead ground pile and spread on paper. Trying to use far less grounds to see if I could get similar results to `pic3` - so I coudl spend less time spreading grounds. My pinch 'method' I figured may be better than tapping grounds out of container which had an interior lip - but maybe some fine particles would be stuck on fingers? This resulted in more fine particles and less large particles than sample1-pic3 (sample that was spread out on paper more) - see `milstead-sample2-pic1-vs-sample1-pic3-hist_av_mass_diam.png` Reason? Either I took fewer large particles from pile of grounds that were left, or more had been removed by previous tapping method, or there were just less grounds on the paper so I had more patience to spread them out. I am ok not knowing this for sure right now, they were close. see results table above.
 
-## Sample 3
+### Sample 3
 
 Took rest of grounds from canister and dumped onto sheet. spread it out. Got larger average diameter than Sample 2 and more large particles. See `milstead-sample3-pic1-vs-sample2-pic1-hist_av_mass_surf.png`. I think this mostly goes to show I am tired of spreading out coffee grounds. Image is in repo if I want to go back later and exclude clusters/clumps and see if I get different results. But not right now.
 
+## Adjusting Hario for Picopresso use
+
+Ok, now on to adjusting the Hario grinder to put out grounds good for the picopresso. Tightening the bottom burr all the way up to top burr told me I was grinding at 5 clicks for all above tests.
+
+### Three Clicks
+
+Guess on 3 clicks and ground 1 bean. See results, not close enough to Milstead professional ground beans - which yielded a very nice espresso.
+
+### Two Clicks
+
+This looked good on paper and in program.
+
+### Two Clicks with addition of Axis Stabilizing Collar
+
+Ok now the results are much much worse? Oh, there are outliers of huge particles. I didn't actually spread the grounds out after grinding them. Whoops.
+
+### Two Clicks with addition of Axis Stabilizing Collar, same sample just spread grounds out more
+
+Ok, now this looks pretty darn good for a $30 grinder from 2014. Done for now.
 
 ## Next Tests
 
 Hario Grinder 'cleaned' by using canned air to blow out small particles. Two samples below I assume will be very similar to above Sample #1. Any deviations are more likely from the smaller amount of beans ground (and thus not testing my patience as much to better seperate the grounds on the paper).
 
 - [x] Grind a few beans with axis stabilizer installed
-- [ ] Grind a few beans without axis stabilizer installed
+- [x] Grind a few beans without axis stabilizer installed
 
 Dissasemble Grind and clean ceramic parts well with Baking soda
 
 - [ ] Grind a few beans with axis stabilizer installed
 - [ ] Grind a few beans without axis stabilizer installed
 
-Adjust grind size and find what diameter particles come out of the first... 5(?) clicks of grinder
+- [x] Adjust grind size and find what diameter particles come out of the first... 5(?) clicks of grinder (in the end only tried 2 and 3 clicks from end)
